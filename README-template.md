@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section---pradeepjoshwa-dniwtCLLs7]()
-- Live Site URL: [https://fourcardpreviewpradeepjoshwa.netlify.app/]()
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/four-card-feature-section---pradeepjoshwa-dniwtCLLs7)
+- Live Site URL: [Click Here](https://fourcardpreviewpradeepjoshwa.netlify.app/)
 
 ## My process
 
